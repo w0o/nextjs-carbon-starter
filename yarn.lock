@@ -7119,7 +7119,7 @@ __metadata:
     lint-staged: ^11.2.6
     next: ^12.0.1
     prettier: ^2.4.1
-    prettier-config-carbon: ^0.4.0
+    prettier-config-carbon: ^0.9.0
     react: ^17.0.2
     react-dom: ^17.0.2
     rimraf: ^3.0.2
@@ -7889,12 +7889,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier-config-carbon@npm:^0.4.0":
-  version: 0.4.0
-  resolution: "prettier-config-carbon@npm:0.4.0"
+"prettier-config-carbon@npm:^0.9.0":
+  version: 0.9.0
+  resolution: "prettier-config-carbon@npm:0.9.0"
   peerDependencies:
     prettier: ^2.1.0
-  checksum: 195643855a9c08267e961177184e6690ad59e70c61be0254a1d326480871007f3e5bbbd0ac5ea61d51174eaf8a6dee6daa43b7794168266df762ebef0c3a647a
+  checksum: fbf6c6a5bbcbe5936784294605f38dd0ea42e728f53e002ec7984f6f6e253755e429748fdfb665b7b808d5d4d5cd6436d5c83a64311ff9355461af3144851035
   languageName: node
   linkType: hard
 
